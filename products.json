@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Python Programming",
+        "price": 123.99,
+        "image": "images/Python.png"
+    },
+    {
+        "title": "Gaming dev",
+        "price": 1.99,
+        "image": "images/Gaming.png"
+    },
+    {
+        "title": "Front end Development",
+        "price": 100,
+        "image": "images/Front.png"
+    },
+    {
+        "title": "Cloud Computing",
+        "price": 50,
+        "image": "images/Cloud.png"
+    },
+    {
+        "title": "JavaScript tutorials",
+        "price": 70,
+        "image": "images/JavaScript.png"
+    },
+    {
+        "title": "Internet of Things",
+        "price": 99,
+        "image": "images/IoT.png"
+    }
+]
